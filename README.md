@@ -1,4 +1,4 @@
-In some parts of the "Pluralsight Fundamentals" course an incorrect
+In some parts of the "FastAPI Fundamentals" course an incorrect
 URL is shown that points to this page. That's why you see this. The
 link below will send you on your way to the correct URL.
 
